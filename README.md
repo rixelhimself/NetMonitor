@@ -5,10 +5,10 @@
 **Project:** Second-Year Cybersecurity Student Project
 **License:** Free for academic/personal use.
 
-## 📌 Project Overview
+## Project Overview
 NetMonitor is a professional-grade, desktop-based Local Area Network (LAN) monitoring and Intrusion Detection System (IDS). Built with Python and PyQt6, it provides real-time traffic analysis, active device discovery, vulnerability scanning, and automated security reporting. Use this tool to audit your network hygiene and detect suspicious activity.
 
-## 🏗 System Architecture
+## System Architecture
 The application is modularized into distinct components for scalability and maintainability:
 
 - **Core Logic (`core/`)**: Handles all network operations.
@@ -20,7 +20,7 @@ The application is modularized into distinct components for scalability and main
 - **GUI (`gui/`)**: A modern, academic-themed PyQt6 interface using a sidebar layout and stacked widgets for seamless navigation.
 - **Reporting (`reports/`)**: Generates professional PDF security audits using ReportLab.
 
-## 🛡 IDS Logic & Detection Capabilities
+## IDS Logic & Detection Capabilities
 NetMonitor's IDS Engine uses behavioral analysis to trigger alerts:
 
 1.  **New Device Detection**: Flags devices that haven't been seen before in the database.
