@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Environment variables
+.env
+
+# Database
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PyQt build files
+*.ui.py
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# NetMonitor specific
+*.pdf

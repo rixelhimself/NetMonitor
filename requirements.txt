@@ -1,0 +1,8 @@
+PyQt6
+scapy
+psutil
+psycopg2-binary
+networkx
+matplotlib
+reportlab
+python-dotenv
